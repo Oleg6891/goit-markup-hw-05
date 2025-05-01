@@ -433,7 +433,7 @@ ol {
   background-color: #31d0aa;
 }
 .div-footer-form {
-  margin-left: 80px;
+  margin-left: auto;
 }
 .footer-form-title {
   margin-bottom: 16px;
@@ -447,7 +447,6 @@ ol {
   display: flex;
   gap: 24px;
 }
-
 .footer-input {
   width: 264px;
   height: 40px;
@@ -687,4 +686,4 @@ input:checked + label > span {
   background-color: #404bbf;
   box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
 }
-/* endregion modal-window */
+/* #endregion modal-window */
